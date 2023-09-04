@@ -34,7 +34,8 @@ node index.js
 ```
 
 4. type '/user' or '/pegawai' in url to see User and Pegawai CRUD
-   e.g.: ```bash
-http:localhost:3000/user
-```
+   e.g.:
+   ```bash
+   http:localhost:3000/user
+   ```
 
